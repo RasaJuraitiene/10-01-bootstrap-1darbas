@@ -1,0 +1,42 @@
+.logo-size{
+    width: 15%;
+ }
+
+.flexbow_column-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    height: 95vh;
+}
+
+.aside{
+    border-right: 1px solid black;
+    height: 100vh;
+}
+
+.logo-size-aside{
+    width: 75%;
+}
+.border-box{
+    box-sizing: border-box;
+}
+
+.img-size{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 20%;
+}
+
+.project-card-size{
+    width: 350px;
+    height: 150px;
+    object-fit: cover;
+    object-position: bottom;
+}
+
+
